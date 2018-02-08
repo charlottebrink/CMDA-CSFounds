@@ -16,5 +16,4 @@ else
 printf("The input number is not prime);}
 free(num1);
 free(num2);
-return num2*1;
 }
